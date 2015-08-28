@@ -15,5 +15,6 @@ int main() {
 	p1.vida = 120;
 	AplicarDano(&p1, 12);
 	std::cout << "vida : " << p1.vida << std::endl;
+	//ola mundo
 	system("pause");
 }
